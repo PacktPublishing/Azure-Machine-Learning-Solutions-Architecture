@@ -1,1 +1,1 @@
-# Azure-Machine-Learning-Solutions-Architecture
+# Azure Machine Learning Solutions Architecture
